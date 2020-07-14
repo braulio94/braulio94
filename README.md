@@ -11,10 +11,10 @@ My name is Braulio and I'm a Software Engineer.
 ## Projects 
 
 #### [BOX](http://www.box.co.ao/)
-<img src="http://www.box.co.ao/img/sign_up.4a43fd1f.png" width="200" height="400"/><img src="http://www.box.co.ao/img/boxPhoneImageIntro.3feb120d.png" width="32%" height="32%"/>
+<img src="http://www.box.co.ao/img/sign_up.4a43fd1f.png" width="8%" height="8%"/><img src="http://www.box.co.ao/img/boxPhoneImageIntro.3feb120d.png" width="12%" height="12%"/>
 
 #### [GRUUPUP](https://www.gruupup.com/) 
-<img src="https://www.gruupup.com/img/screen_1.png" width="240" height="400"/><img src="https://www.gruupup.com/img/help.png" width="50%" height="50%"/>
+<img src="https://www.gruupup.com/img/screen_1.png" width="12%" height="10%"/>
 
 #### Other Projects 
 - [Menu Flutter](https://github.com/braulio94/menu_flutter)
