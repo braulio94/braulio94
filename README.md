@@ -10,7 +10,7 @@ My name is Braulio and I'm a Software Engineer.
 ## Projects 
 |[BOX](http://www.box.co.ao/)|[GRUUPUP](https://www.gruupup.com/)|
 |:-:|:-:|
-|<img src="" width="50%" height="50%"/><img src="http://www.box.co.ao/img/boxPhoneImageIntro.3feb120d.png" width="50%" height="50%"/>|![image3](https://www.gruupup.com/img/screen_1.png)|
+|<img src="http://www.box.co.ao/img/sign_up.4a43fd1f.png" width="200" height="400"/><img src="http://www.box.co.ao/img/boxPhoneImageIntro.3feb120d.png" width="32%" height="32%"/>|![image3](https://www.gruupup.com/img/screen_1.png)|
 
 #### Other Projects 
 - [Menu Flutter](https://github.com/braulio94/menu_flutter)
