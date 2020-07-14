@@ -1,11 +1,5 @@
 # About Me      
-<img src="https://avatars3.githubusercontent.com/u/20057010?s=400&u=ae95fc706dbf95c4e511d3788bd9026e46f8429a&v=4" width="50" height="50" />
-My name is Braulio and I'm a Software Engineer.
-
-* [Projects](#projects)
-* [Skills](#skills)
-* [Events, Talks and Blog](#events)
-* [Contact](#contact)
+I'm a Software Engineer interested in creating solutions 
 
 ## Projects 
 |[BOX](http://www.box.co.ao/)|[GRUUPUP](https://www.gruupup.com/)|
