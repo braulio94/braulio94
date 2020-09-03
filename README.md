@@ -8,7 +8,7 @@ I'm a Software Engineer interested in creating solutions
 [![Braulio Cassule's github stats](https://github-readme-stats.vercel.app/api?username=braulio94)](https://github.com/braulio94)
 
 #### Contact
-[LinkedIn](https://linkedin.com/in/braulio94)
-[Twitter](https://twitter.com/brauliocaassule)
-[Email](brauliocassule94@gmail.com)
-[Medium](https://medium.com/@brauliocassule)
+[LinkedIn](https://linkedin.com/in/braulio94)<br>
+[Twitter](https://twitter.com/brauliocaassule)<br>
+[Email](brauliocassule94@gmail.com)<br>
+[Medium](https://medium.com/@brauliocassule)<br>
