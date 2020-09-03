@@ -5,6 +5,8 @@ I'm a Software Engineer interested in creating solutions
 `Java` `Go` `Dart` `Postgres` `Flutter` `MicrosoftSql Server` `IntellijIDEA` `Domain Driven Design` `Android` `User Interface Design` `Git` `Product Development` `SSDT` `ITIL Foundation` 
 `Github` `Firebase` `Visual Studio Code` `JSF` `Microsoft Excel` `SQLite` `FirebirdSQL` `Microservices Architecture` `Mobile Development`
 
+[![Braulio Cassule's github stats](https://github-readme-stats.vercel.app/api?username=braulio94)](https://github.com/braulio94)
+
 #### Contact
 [LinkedIn](https://linkedin.com/in/braulio94)
 [Twitter](https://twitter.com/brauliocaassule)
